@@ -16,9 +16,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/348b03f31e5e4eaba938495f016c4d7e">
+    </a>
+    <a href="https://www.loom.com/share/348b03f31e5e4eaba938495f016c4d7e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/348b03f31e5e4eaba938495f016c4d7e-eb528074a71215ac-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 My 3-5 favorite applications:
